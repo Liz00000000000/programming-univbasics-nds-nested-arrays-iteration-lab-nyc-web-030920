@@ -41,5 +41,7 @@ def total_even_pairs(src)
       sum += num1 + num2
     end
   end
-  puts sum 
+  puts sum
 end
+
+total_even_pairs(array_3)
